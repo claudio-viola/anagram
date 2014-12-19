@@ -5,8 +5,7 @@ Anagram Solver
 
 How to set up:
 1) Install gevent library using pip 
-
-#pip install gevent
+    pip install gevent
 2) run anagram_test.py 
 
 3)  perform a query on port 9999 
